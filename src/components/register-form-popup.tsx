@@ -41,7 +41,7 @@ export default function RegisterFormPopup({
       <DialogTrigger asChild>
         <Button>Add Register</Button>
       </DialogTrigger>
-      <DialogContent className="sm:max-w-[425px]">
+      <DialogContent className="sm:max-w-[1000px]">
         <DialogHeader>
           <DialogTitle>Add New Register</DialogTitle>
         </DialogHeader>
